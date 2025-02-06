@@ -105,10 +105,10 @@ N: Nurturing meaningful collaborations and growth
 
 ### 📈 **GitHub Stats**
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azacus1&show_icons=true&locale=en&theme=dark" alt="Aman Srivastava" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=InfiniteLoopster-coder&show_icons=true&locale=en&theme=dark" alt="Aman Srivastava" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azacus1&theme=dark" alt="Aman Srivastava" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteLoopster-coder&theme=dark" alt="Aman Srivastava" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=InfiniteLoopster-coder&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />

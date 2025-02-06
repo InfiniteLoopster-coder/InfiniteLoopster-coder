@@ -5,7 +5,7 @@
   <strong>🎯 Senior Data Scientist</strong>
 </h3>
 
-<img align="right" alt="Coding" width="250" src="https://github.com/Azacus1/Azacus1/blob/main/DS.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/InfiniteLoopster-coder/InfiniteLoopster-coder/blob/main/DS.gif">
 
 ---
 

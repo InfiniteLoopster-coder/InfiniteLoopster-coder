@@ -14,18 +14,18 @@
 ---
 
 ### 🌐 **Connect with me**
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/aman-srivastava-5b1068153" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://github.com/InfiniteLoopster-coder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
   <a href="mailto:aman_srivastava14@outlook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=email" alt="Email" width="50"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
   <a href="https://www.instagram.com/cosmic_chiller" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
   </a>
 </p>
 

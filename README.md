@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner-image.gif" alt="Aman Srivastava Banner" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/InfiniteLoopster-coder/banner-image.gif" alt="Aman Srivastava Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Aman Srivastava <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>

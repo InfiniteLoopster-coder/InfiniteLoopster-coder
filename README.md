@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/InfiniteLoopster-coder/banner-image.gif" alt="Aman Srivastava Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi, I'm Aman Srivastava <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <h3 align="center">
   <strong>🎯 Senior Data Scientist | AI Enthusiast 🚀</strong>
@@ -28,6 +24,24 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
   </a>
 </p>
+
+---
+### 👨‍💻 **What I do?**
+<details>
+<summary><strong>AI Engineer 📊</strong></summary>
+<ul>
+  <li><a href="https://github.com/InfiniteLoopster-coder/AI_Agent-for-Metering">AI AGENT FOR METERING</a></li>
+  <li>Many more on and out of GitHub...</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Sr. Data Scientist @ <a href="https://crosslynxus.com/">Crosslynx</a> ⚡</strong></summary>
+<ul>
+  <li>Developing AI solutions for High Impedance Fault Detection in electricity systems and deploying AI agents to enhance detection efficiency.</li>
+  <li>Designing sophisticated AI algorithms for Electricity Theft Detection, leveraging advanced Time Series Analysis and Anomaly Detection techniques.</li>
+</ul>
+</details>
 
 ---
 

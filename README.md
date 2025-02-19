@@ -45,6 +45,30 @@
 
 ---
 
+### 🤔 **Curious About Me?**
+<details>
+<summary><strong>Who am I? 👨‍💻</strong></summary>
+<pre>
+I am a passionate professional dedicated to building end-to-end solutions that deliver impactful, scalable, and sustainable 
+social and technical systems.
+My name reflects my core qualities:
+A: Adaptive and always eager to learn
+M: Motivated to solve real-world problems
+A: Analytical thinker with a creative approach
+N: Nurturing meaningful collaborations and growth
+</pre>
+</details>
+
+<details>
+<summary><strong>What do you do other than building AI systems? 💁‍♂️</strong></summary>
+<ul>    
+<li>I am highly skilled in music, particularly in singing, and often spend my time exploring and perfecting my vocal techniques.</li>
+<li>I also teach singing to help others discover and develop their musical abilities.</li>  
+</ul>
+</details>
+
+---
+
 ### 🛠️ **Languages and Tools**
 <p align="center">
   <a href="https://www.python.org" target="_blank">

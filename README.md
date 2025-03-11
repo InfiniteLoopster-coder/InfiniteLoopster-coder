@@ -1,6 +1,6 @@
 <h1 align="center">Hi there.., I'm Aman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <h3 align="center">
-  <strong>🎯 Senior Data Scientist | AI Enthusiast 🚀</strong>
+  <strong>🎯 Data Scientist | AI Enthusiast 🚀</strong>
 </h3>
 
 <p align="center">

@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary><strong>Sr. Data Scientist @ <a href="https://crosslynxus.com/">Crosslynx</a> ⚡</strong></summary>
+<summary><strong>Data Scientist </strong></summary>
 <ul>
   <li>Developing AI solutions for High Impedance Fault Detection in electricity systems and deploying AI agents to enhance detection efficiency.</li>
   <li>Designing sophisticated AI algorithms for Electricity Theft Detection, leveraging advanced Time Series Analysis and Anomaly Detection techniques.</li>

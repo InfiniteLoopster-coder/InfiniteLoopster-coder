@@ -20,7 +20,7 @@
   <a href="mailto:aman_srivastava14@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
-  <a href="https://www.instagram.com/cosmic_chiller" target="_blank">
+  <a href="https://www.instagram.com/its.aman.srivastava" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
   </a>
 </p>
